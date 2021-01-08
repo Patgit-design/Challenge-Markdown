@@ -48,7 +48,7 @@ TD;LR
 ###### Head in the stars damn it !
 
 
-<< [Loris Conti](https) || Corduant Patricia || [Adrien Deceulaeur](https://deceulaeradrien.github.io/challenge-markdown/) >>
+<< [Loris Conti](https://shinyami.github.io/Challenge-Markdown/) || Corduant Patricia || [Adrien Deceulaeur](https://deceulaeradrien.github.io/challenge-markdown/) >>
 
 
 

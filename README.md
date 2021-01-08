@@ -2,44 +2,48 @@
 Learning challenge
 # Corduant Patricia
 
-***Je n'ai pas fini d'apprendre, demain m'appartient !***
+***I haven't finished learning, tomorrow is mine!***
 
 
 ![Cette photo n'est pas très pro](https://github.com/Patgit-design/Challenge-Markdown/blob/assets/IMG_20180118_110003.jpg)
 
 
-### *Ne jamais reculer !* ###
+## *Never look back* ##
 
 
-Des scoops ?  |  Voilà ! 
+Some scoops ?  |  Here you are ! 
 :-----: | :----: 
-Née le | 09/07/75
-Genre  | F
-Ma couleur | Orange
-J :heart: manger|Les  :sushi:
-Ananas sur ma pizza ? |yes  [ ]  no  [x]
+Born on | 7th of July 75
+Gender  | F
+My color | Orange
+I :heart: eat|Some  :sushi:
+Pineaple on pizza ? |yes  [ ]  no  [x]
 
-#### Mes hobbies
+### My hobbies
 
-- La voile
-- La plongée
-- La fête 
-- Faire de la musique
-   - Saxophone
-   - Piano
-   - Chant
-
-
-
-##### Vous pouvez toujours compter sur moi pour ...
-
-Être de bonne humeur, et avoir de l'humour
-
-Partager mes bons plans et trouvailles avec la team 
+- Sailing
+- Diving
+- Celebration
+- Make music
+    - Saxophone
+    - Piano
+    - Singing
 
 
 
-###### Une petite anecdote
+#### You can always count on me when ...
+
+Be in a good mood, and have a sense of humor
+
+Share my tips and finds with the team
+
+
+
+##### A funny story
+
+
+One day of shopping in Brussels, I forgot my son in his stroller in a department store.
+###### Head in the stars damn it !
 
 
 

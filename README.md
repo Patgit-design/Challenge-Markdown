@@ -17,7 +17,7 @@ Born on | 9th of July
 Gender  | F
 My color | Orange
 I :heart: eat|Some  :sushi:
-Pineaple on pizza ? |<ul><li> [ ] Yes</li></ul> <ul><li> [x] No </li></ul>
+Pineaple on pizza ? |yes [ ]  no [x]
 
 ### My hobbies
 

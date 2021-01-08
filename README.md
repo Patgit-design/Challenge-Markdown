@@ -13,7 +13,7 @@ Learning challenge
 
 Some scoops ?  |  Here you are ! 
 :-----: | :----: 
-Born on | 9th of July 75
+Born on | 9th of July 
 Gender  | F
 My color | Orange
 I :heart: eat|Some  :sushi:
@@ -43,6 +43,8 @@ Share my tips and finds with the team
 
 
 One day of shopping in Brussels, I forgot my son in his stroller in a department store.
+
+TD;LR
 ###### Head in the stars damn it !
 
 

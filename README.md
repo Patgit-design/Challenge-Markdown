@@ -16,7 +16,7 @@ Some scoops ?  |  Here you are !
 Born on | 9th of July 
 Gender  | F
 My color | Orange
-I :heart: eat|Some  :sushi:
+I ❤️ eat|Some  🍣
 Pineaple on pizza ? |yes [ ]  no [x]
 
 ### My hobbies

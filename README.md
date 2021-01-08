@@ -31,7 +31,7 @@ Pineaple on pizza ? |yes [ ]  no [x]
 
 
 
-#### You can always count on me when ...
+#### You can always count on me to ...
 
 Be in a good mood, and have a sense of humor
 

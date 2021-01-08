@@ -5,7 +5,7 @@ Learning challenge
 ***I haven't finished learning, tomorrow is mine!***
 
 
-![Cette photo n'est pas très pro](https://github.com/Patgit-design/Challenge-Markdown/blob/assets/profil%20redim.jpg)
+![Cette photo n'est pas très pro](https://github.com/Patgit-design/Challenge-Markdown/blob/assets/profil%20redime.jpg)
 
 
 ## *Never look back* ##

@@ -13,7 +13,7 @@ Learning challenge
 
 Some scoops ?  |  Here you are ! 
 :-----: | :----: 
-Born on | 7th of July 75
+Born on | 9th of July 75
 Gender  | F
 My color | Orange
 I :heart: eat|Some  :sushi:
